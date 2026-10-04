@@ -23,6 +23,24 @@
     alt="GitHub Stats"
   />
 </p>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=codetechie-G&theme=tokyonight"
+    alt="GitHub Streak"
+  />
+</p>
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=codetechie-G&label=Profile%20views&color=0e75b6&style=flat"
+    alt="codetechie-G"
+  />
+</p>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nickdev0118&show_icons=true&locale=en" alt="nickdev0118" /></p>-->
 
