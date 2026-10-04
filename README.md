@@ -3,7 +3,12 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Web%20and%20Mobile%20developer;Mid-level%20AI%20developer;Honest%20Blockchain%20developer&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
-
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=codetechie-G&theme=tokyonight"
+    alt="GitHub Streak"
+  />
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codetechie-G&label=Profile%20views&color=0e75b6&style=flat" alt="codetechie-G" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codetechie-G" alt="codetechie-G" /></a> </p> -->
@@ -16,31 +21,6 @@
 <h3 align="left">Support:</h3>
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickdev0118&show_icons=true&locale=en&layout=compact" alt="nickdev0118" /></p>-->
-
-<p align = "center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=codetechie-G&show_icons=true&theme=tokyonight&include_all_commits=true"
-    alt="GitHub Stats"
-  />
-</p>
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=codetechie-G&theme=tokyonight"
-    alt="GitHub Streak"
-  />
-</p>
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=codetechie-G&label=Profile%20views&color=0e75b6&style=flat"
-    alt="codetechie-G"
-  />
-</p>
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nickdev0118&show_icons=true&locale=en" alt="nickdev0118" /></p>-->
 
