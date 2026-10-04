@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Software Engineer</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Web%20and%20Mobile%20developer;Mid-level%20AI%20developer;Honest%20Blockchain%20developer&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Web%20and%20Mobile%20Developer;AI%20%26%20Blockchain%20Developer&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 <p align="center">
   <img
